@@ -1,6 +1,7 @@
-Discipline,Question,Reason,LLM,Ans
+Discipline,Question,Reason you think it is faulty,Which top LLM you tried,Response by a top LLM
 Biology,"how does platelet help in fighting infections?
-",Platelets aid in blood clotting,Claude 3.5,"Platelets play a crucial role in fighting infections through multiple sophisticated mechanisms:
+","how does platelet help in fighting infections?
+",GPT4,"Platelets play a crucial role in fighting infections through multiple sophisticated mechanisms:
 Direct Pathogen Defense
 Pathogen Capture and Elimination
 Directly bind and engulf viruses and bacteria
@@ -27,7 +28,7 @@ Trigger acute phase immune responses67
 Remarkably, platelets act as first-line immune defenders, combining their traditional blood-clotting role with sophisticated pathogen-fighting capabilities.
 
  "
-Biology,A synapse is the gap between two muscle fibers. THen what is the gap between 2 bones in arms,The premise is wrong it does not identifies that,Gemini 1 Pro,"There are different types of joints, each with its own specific structure and function:   
+Biology,A synapse is the gap between two muscle fibers. THen what is the gap between 2 bones in arms,A synapse is the gap between two muscle fibers. THen what is the gap between 2 bones in arms,GPT4,"There are different types of joints, each with its own specific structure and function:   
 
 Synovial joints: These are the most common type of joint, characterized by a fluid-filled cavity that allows for smooth movement. Examples include the elbow, knee, and shoulder joints.   
 Fibrous joints: These joints have fibrous connective tissue connecting the bones, allowing for limited movement. Examples include the joints between the bones of the skull.   
